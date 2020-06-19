@@ -1,0 +1,7 @@
+.cardStyle{
+    object-fit: none;
+    object-position: center;
+    width: 320px;
+    margin-left: 15px;   
+    border-color: black;
+}
